@@ -15,6 +15,6 @@ public class Rotate : MonoBehaviour
     {
         transform.position = startPos + new Vector3(0.0f, Mathf.Sin(Time.time) * 0.025f, 0.0f);
 
-        transform.rotation = Quaternion.Euler(0.0f, (Time.time * 30.0f) % 360.0f, 0.0f);
+        transform.rotation = Quaternion.Euler(0.0f, (Time.time * 60.0f) % 360.0f, 0.0f);
     }
 }
