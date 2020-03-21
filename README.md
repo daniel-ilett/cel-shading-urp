@@ -1,2 +1,2 @@
-# cel-shading-urp
-A set of cel-shading shaders for Universal Render Pipeline.
+# Cel-shading in Shader Graph and URP
+A cel-shading tutorial for Unity Universal Render Pipeline and Shader Graph.
